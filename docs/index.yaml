@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-03-13T08:48:31.654940989-07:00
+    description: A Helm chart for Kubernetes
+    digest: d06dc6b1f63e48a4fbc1c479d371d6c8393068cc0b04d21dcb5e18309ea1182e
+    name: notificationchart
+    urls:
+    - https://folcistan.github.io/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-03-13T08:48:31.654524693-07:00
